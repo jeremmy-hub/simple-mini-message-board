@@ -1,0 +1,13 @@
+.message {
+    display: grid;
+    width: 60vw;
+    height: 200px;
+    background-color: black !important;
+    margin-bottom: 10px;
+    color: wheat;
+}
+
+.new-message-container{
+    display: grid;
+    grid-template-columns: 1fr;
+}
