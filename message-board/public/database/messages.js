@@ -25,15 +25,5 @@ module.exports = {
     "text": "heelo there",
     "added": "9/17/2024"
   },
-  {
-    "user": "joy",
-    "text": "hello",
-    "added": "9/17/2024"
-  },
-  {
-    "user": "joe",
-    "text": "test",
-    "added": "9/19/2024"
-  }
 ]
 };
