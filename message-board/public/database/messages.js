@@ -25,5 +25,10 @@ module.exports = {
     "text": "heelo there",
     "added": "9/17/2024"
   },
+  {
+    "user": "lucy wanjiku",
+    "text": "Anestar boys high school secretary",
+    "added": "9/24/2024"
+  }
 ]
 };
